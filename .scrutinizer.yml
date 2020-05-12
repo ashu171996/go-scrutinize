@@ -1,3 +1,5 @@
+checks:
+  go: true
 build:
     dependencies:
         before:
